@@ -1,0 +1,9 @@
+CSM_ID,CSM_Name,Email,Team,Manager
+CSM-01,Ana López,ana.lopez@empresa-demo.com,Enterprise,Laura Kim
+CSM-02,Carlos Méndez,carlos.mendez@empresa-demo.com,Enterprise,Laura Kim
+CSM-03,Sofía Ramírez,sofia.ramirez@empresa-demo.com,Mid-Market,Laura Kim
+CSM-04,Daniel Ortiz,daniel.ortiz@empresa-demo.com,Mid-Market,Robert Hayes
+CSM-05,Emily Carter,emily.carter@empresa-demo.com,Mid-Market,Robert Hayes
+CSM-06,James Walker,james.walker@empresa-demo.com,SMB,Robert Hayes
+CSM-07,Lucía Herrera,lucia.herrera@empresa-demo.com,SMB,Robert Hayes
+CSM-08,Michael Brooks,michael.brooks@empresa-demo.com,SMB,Laura Kim

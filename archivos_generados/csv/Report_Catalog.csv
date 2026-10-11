@@ -1,0 +1,37 @@
+ReportID,ReportName,Type,Audience,Frequency,Source,Owner,CreatedDate,LastModified,Recipients,MaintHrsPerMonth
+RPT-001,Customer Health Scorecard,Standard,CS Leadership,Weekly,Gainsight,Mariana Torres,2023-09-21,2025-10-09,24,8
+RPT-002,Weekly Active Users by Account,Standard,CSM,Weekly,Product DB,Ryan Mitchell,2025-05-04,2026-01-30,39,1.5
+RPT-003,Renewal Pipeline - Next 120 Days,Standard,CS Leadership,Weekly,Salesforce,Kevin Liu,2025-07-08,2026-04-01,7,1.5
+RPT-004,QBR Usage Pack - Enterprise,Custom,CSM,Quarterly,Product DB,Ryan Mitchell,2024-02-03,2025-09-06,32,0.5
+RPT-005,Seat Utilization by Product,Standard,CSM,Monthly,Product DB,Paola Sánchez,2022-10-20,2026-02-10,18,6
+RPT-006,Ticket Backlog by CSM,Standard,CSM,Daily,Salesforce,Paola Sánchez,2022-06-07,2025-11-05,37,0.5
+RPT-007,Executive ARR at Risk,Custom,Executive,Monthly,Salesforce,Mariana Torres,2025-01-14,2025-05-23,3,0.5
+RPT-008,Login Report (Legacy v1),Standard,CSM,Weekly,Product DB,Kevin Liu,2022-07-14,2026-05-30,37,6
+RPT-009,Login Report v2,Standard,CSM,Weekly,Product DB,Paola Sánchez,2022-07-28,2026-08-03,35,3
+RPT-010,Feature Adoption Heatmap,Custom,Product,Monthly,Product DB,Paola Sánchez,2022-04-17,2023-01-08,24,1
+RPT-011,Contractual Usage Report - Monthly,Contractual,Customer,Monthly,Product DB,Paola Sánchez,2022-04-19,2022-10-08,3,8
+RPT-012,Contractual SLA Report - Quarterly,Contractual,Customer,Quarterly,Salesforce,Ryan Mitchell,2022-06-01,2025-06-22,1,8
+RPT-013,NPS Verbatims Digest,Standard,CS Leadership,Monthly,Gainsight,Kevin Liu,2025-05-31,2025-11-29,18,6
+RPT-014,Churn Post-Mortem Tracker,Custom,CS Leadership,Ad hoc,Salesforce,Ryan Mitchell,2023-06-02,2025-08-09,15,1.5
+RPT-015,CSM Book of Business,Standard,CSM,Weekly,Salesforce,Ryan Mitchell,2025-10-12,2026-08-23,20,6
+RPT-016,Onboarding Progress (Implementation),Standard,CSM,Weekly,Gainsight,Mariana Torres,2025-06-28,2026-05-08,32,8
+RPT-017,Support CSAT Trend,Standard,Support,Monthly,Salesforce,Ryan Mitchell,2022-07-03,2025-06-26,27,1.5
+RPT-018,Ad hoc - Partner Usage Extract,Custom,Partner,Ad hoc,Product DB,Ryan Mitchell,2022-06-06,2025-08-25,35,8
+RPT-019,Ad hoc - Upsell Whitespace,Custom,Account Mgmt,Ad hoc,Salesforce,Paola Sánchez,2025-01-23,2025-06-04,36,2
+RPT-020,Monthly Logins Summary (Old),Standard,CS Leadership,Monthly,Product DB,Paola Sánchez,2023-02-27,2023-05-16,36,0.5
+RPT-021,Copy of Customer Health Scorecard,Custom,CSM,Weekly,Gainsight,Kevin Liu,2023-09-10,2024-09-25,26,0.5
+RPT-022,Product Release Adoption,Custom,Product,Monthly,Product DB,Paola Sánchez,2024-06-01,2024-07-01,27,6
+RPT-023,Integration Errors by Account,Standard,Support,Daily,Product DB,Ryan Mitchell,2022-06-15,2024-04-24,39,0.5
+RPT-024,License Overage Report,Standard,Account Mgmt,Monthly,Salesforce,Mariana Torres,2025-10-03,2026-09-12,13,3
+RPT-025,EBR Deck Data Pull,Custom,CS Leadership,Quarterly,Gainsight,Paola Sánchez,2022-11-21,2023-11-16,26,3
+RPT-026,Inactive Users Alert,Standard,CSM,Weekly,Product DB,Ryan Mitchell,2024-07-08,2025-01-10,32,6
+RPT-027,Report Usage Audit (Meta),Custom,CS Ops,Monthly,Product DB,Paola Sánchez,2024-10-29,2025-03-21,21,1.5
+RPT-028,Regional ARR Summary - LATAM,Custom,CS Leadership,Monthly,Salesforce,Kevin Liu,2022-05-07,2023-09-24,37,3
+RPT-029,Regional ARR Summary - EMEA,Custom,CS Leadership,Monthly,Salesforce,Kevin Liu,2023-09-25,2024-12-23,37,1
+RPT-030,Customer Success Plan Status,Standard,CSM,Monthly,Gainsight,Kevin Liu,2024-01-08,2025-02-25,19,1
+RPT-031,Contractual Usage Report - Healthcare,Contractual,Customer,Monthly,Product DB,Kevin Liu,2022-02-10,2023-12-13,5,4
+RPT-032,Ad hoc - Price Increase Impact,Custom,Executive,Ad hoc,Salesforce,Paola Sánchez,2023-03-21,2024-03-19,4,1.5
+RPT-033,Time to First Value,Standard,CS Leadership,Monthly,Gainsight,Ryan Mitchell,2022-09-13,2023-08-30,40,2
+RPT-034,Escalations Log,Standard,CS Leadership,Weekly,Salesforce,Paola Sánchez,2024-09-05,2025-08-22,9,2
+RPT-035,Daily Usage Firehose,Standard,CS Ops,Daily,Product DB,Ryan Mitchell,2023-02-05,2023-09-10,26,4
+RPT-036,Partner Health Overview,Custom,Partner,Monthly,Gainsight,Ryan Mitchell,2025-10-13,2026-09-08,36,3

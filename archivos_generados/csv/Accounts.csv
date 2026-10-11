@@ -1,0 +1,151 @@
+AccountID,AccountName,Segment,Region,Industry,Product,CSM_ID,ARR_USD,LicensedSeats,ContractStart,RenewalDate,Status,ChurnDate,ContractualReporting
+ACC-0001,Ironwood Holdings,Enterprise,APAC,Insurance,HR Compliance,CSM-01,456100,434,2025-04-18,2026-03-12,Churned,2026-03-12,Monthly
+ACC-0002,Blue Ridge Financial,Mid-Market,EMEA,Insurance,HR Compliance,CSM-03,95800,77,2023-02-09,2026-10-04,Active,,None
+ACC-0003,Vantage Pharma,Mid-Market,LATAM,Energy,Legal Spend Mgmt,CSM-03,142200,274,2022-08-18,2027-07-01,Active,,None
+ACC-0004,Sterling Financial,SMB,APAC,Healthcare,Matter Management,CSM-08,23200,45,2022-12-05,2026-11-07,Active,,None
+ACC-0005,Aurora Bank,Mid-Market,North America,Energy,Legal Spend Mgmt,CSM-03,64700,136,2023-06-01,2027-09-11,Active,,None
+ACC-0006,Harbor Partners,Mid-Market,EMEA,Energy,Matter Management,CSM-04,128800,98,2022-08-18,2026-12-09,Active,,None
+ACC-0007,Crescent Systems,SMB,EMEA,Financial Services,Matter Management,CSM-06,14100,38,2025-04-24,2027-04-27,Active,,None
+ACC-0008,Evergreen Systems,Enterprise,APAC,Legal Services,Legal Spend Mgmt,CSM-01,224800,1194,2022-07-26,2026-11-22,Active,,Monthly
+ACC-0009,Coastal Retail,SMB,North America,Manufacturing,Legal Spend Mgmt,CSM-08,31500,13,2022-12-04,2026-12-21,Active,,None
+ACC-0010,Summit Health,Enterprise,APAC,Manufacturing,HR Compliance,CSM-01,428700,1058,2021-11-13,2027-01-31,Active,,Monthly
+ACC-0011,Summit Legal,Mid-Market,LATAM,Energy,Contract Lifecycle,CSM-03,41000,209,2024-03-01,2027-04-23,Active,,Quarterly
+ACC-0012,Crescent Manufacturing,SMB,North America,Healthcare,GRC / Risk,CSM-08,30500,49,2025-04-08,2027-02-05,Active,,None
+ACC-0013,Granite Capital,SMB,North America,Financial Services,Workflow Automation,CSM-08,13000,28,2025-01-26,2026-12-10,Active,,None
+ACC-0014,Aurora Capital,SMB,LATAM,Insurance,Legal Spend Mgmt,CSM-06,18700,18,2025-05-14,2026-11-19,Active,,None
+ACC-0015,Cobalt Bank,Mid-Market,LATAM,Technology,HR Compliance,CSM-05,56300,82,2025-03-25,2027-09-21,Active,,None
+ACC-0016,Brightpath Group,Mid-Market,North America,Public Sector,HR Compliance,CSM-05,57000,288,2021-10-30,2027-02-07,Active,,None
+ACC-0017,Northwind Capital,Enterprise,EMEA,Public Sector,Legal Spend Mgmt,CSM-02,250100,1142,2024-04-05,2027-02-16,Active,,Monthly
+ACC-0018,Horizon Health,SMB,LATAM,Public Sector,Workflow Automation,CSM-08,18600,11,2024-02-02,2027-03-31,Active,,None
+ACC-0019,Crescent Pharma,SMB,EMEA,Technology,GRC / Risk,CSM-08,39500,17,2023-03-21,2027-03-28,Active,,None
+ACC-0020,Pinnacle Logistics,Mid-Market,EMEA,Manufacturing,Contract Lifecycle,CSM-04,47700,220,2022-08-20,2027-09-19,Active,,None
+ACC-0021,Riverbend Health,SMB,North America,Public Sector,Workflow Automation,CSM-07,29700,21,2023-12-30,2027-07-13,Active,,None
+ACC-0022,Westfield Systems,Mid-Market,North America,Energy,Workflow Automation,CSM-03,112500,122,2023-01-17,2027-05-17,Active,,None
+ACC-0023,Vantage Holdings,SMB,North America,Manufacturing,GRC / Risk,CSM-08,35200,14,2024-07-15,2026-07-12,Churned,2026-07-12,None
+ACC-0024,Granite Energy,SMB,LATAM,Financial Services,GRC / Risk,CSM-06,13600,54,2024-10-28,2027-09-03,Active,,None
+ACC-0025,Ironwood Partners,Enterprise,LATAM,Energy,HR Compliance,CSM-02,523800,1322,2021-11-28,2027-07-01,Active,,None
+ACC-0026,Aurora Energy,Enterprise,North America,Insurance,Matter Management,CSM-02,301100,1306,2022-12-08,2027-08-19,Active,,Monthly
+ACC-0027,Brightpath Insurance,Enterprise,North America,Public Sector,GRC / Risk,CSM-01,535500,1379,2023-10-19,2027-07-07,Active,,Monthly
+ACC-0028,Elmstone Holdings,Enterprise,LATAM,Insurance,GRC / Risk,CSM-02,163100,888,2022-08-04,2025-11-21,Churned,2025-11-21,None
+ACC-0029,Sierra Holdings,SMB,LATAM,Legal Services,Legal Spend Mgmt,CSM-08,21700,39,2023-06-12,2027-08-02,Active,,None
+ACC-0030,Liberty Financial,Mid-Market,North America,Legal Services,Workflow Automation,CSM-05,45700,293,2024-02-04,2027-05-06,Active,,None
+ACC-0031,Northwind Bank,SMB,LATAM,Manufacturing,Matter Management,CSM-07,29400,46,2024-07-14,2026-10-13,Active,,None
+ACC-0032,Falcon Capital,Mid-Market,North America,Legal Services,Contract Lifecycle,CSM-05,114500,295,2025-01-04,2026-12-25,Active,,None
+ACC-0033,Sierra Partners,SMB,EMEA,Technology,HR Compliance,CSM-07,29200,14,2024-12-22,2027-07-19,Active,,None
+ACC-0034,Evergreen Logistics,Mid-Market,North America,Insurance,HR Compliance,CSM-05,125200,169,2022-02-02,2027-05-26,Active,,None
+ACC-0035,Westfield Retail,SMB,North America,Technology,Matter Management,CSM-07,14800,26,2023-07-12,2027-03-24,Active,,None
+ACC-0036,Granite Logistics,SMB,EMEA,Energy,HR Compliance,CSM-06,30100,51,2025-03-04,2027-02-03,Active,,None
+ACC-0037,Keystone Holdings,Mid-Market,North America,Technology,Contract Lifecycle,CSM-05,89900,128,2023-08-02,2027-06-02,Active,,None
+ACC-0038,Driftwood Health,Enterprise,LATAM,Insurance,Legal Spend Mgmt,CSM-01,283300,939,2024-08-12,2027-01-09,Active,,Monthly
+ACC-0039,Evergreen Energy,Enterprise,LATAM,Energy,GRC / Risk,CSM-02,303300,305,2022-11-25,2026-11-24,Active,,None
+ACC-0040,Ironwood Manufacturing,SMB,EMEA,Insurance,Legal Spend Mgmt,CSM-06,11800,58,2024-10-20,2026-12-18,Active,,None
+ACC-0041,Monarch Legal,Mid-Market,North America,Legal Services,HR Compliance,CSM-05,50900,245,2023-12-27,2027-07-31,Active,,None
+ACC-0042,Keystone Partners,Mid-Market,LATAM,Insurance,Legal Spend Mgmt,CSM-03,71700,122,2025-08-21,2027-04-30,Active,,None
+ACC-0043,Atlas Partners,Mid-Market,LATAM,Healthcare,Contract Lifecycle,CSM-03,47900,92,2021-12-11,2027-01-12,Active,,None
+ACC-0044,Atlas Health,Mid-Market,North America,Energy,GRC / Risk,CSM-03,105800,277,2023-12-13,2027-09-26,Active,,None
+ACC-0045,Meridian Systems,Mid-Market,EMEA,Healthcare,GRC / Risk,CSM-05,111700,284,2021-11-19,2027-02-17,Active,,None
+ACC-0046,Atlas Energy,SMB,North America,Energy,Contract Lifecycle,CSM-08,38200,58,2025-01-24,2026-12-24,Active,,None
+ACC-0047,Meridian Bank,Mid-Market,North America,Technology,HR Compliance,CSM-04,108800,244,2021-12-19,2027-07-07,Active,,None
+ACC-0048,Coastal Capital,Mid-Market,North America,Public Sector,Legal Spend Mgmt,CSM-03,149100,283,2024-04-23,2026-12-23,Active,,None
+ACC-0049,Keystone Pharma,SMB,North America,Healthcare,GRC / Risk,CSM-06,37500,42,2022-12-12,2027-06-01,Active,,None
+ACC-0050,Brightpath Holdings,Enterprise,LATAM,Healthcare,GRC / Risk,CSM-02,305300,1330,2022-05-12,2027-07-26,Active,,None
+ACC-0051,Harbor Legal,Mid-Market,LATAM,Public Sector,GRC / Risk,CSM-05,127200,216,2023-05-08,2026-10-25,Active,,None
+ACC-0052,Sierra Group,Mid-Market,LATAM,Healthcare,GRC / Risk,CSM-05,146700,69,2023-03-09,2026-11-23,Active,,None
+ACC-0053,Blue Ridge Partners,SMB,North America,Technology,Workflow Automation,CSM-08,36400,41,2021-11-14,2027-07-03,Active,,None
+ACC-0054,Pinnacle Capital,Enterprise,EMEA,Financial Services,GRC / Risk,CSM-01,462300,259,2023-03-22,2026-11-22,Active,,Quarterly
+ACC-0055,Aurora Financial,SMB,EMEA,Healthcare,Matter Management,CSM-06,27500,34,2022-06-24,2027-09-17,Active,,None
+ACC-0056,Vantage Energy,Mid-Market,North America,Insurance,Workflow Automation,CSM-04,115900,166,2024-10-07,2026-11-09,Active,,None
+ACC-0057,Pioneer Bank,Enterprise,North America,Public Sector,Contract Lifecycle,CSM-01,404700,300,2022-06-06,2027-03-03,Active,,None
+ACC-0058,Meridian Capital,SMB,EMEA,Financial Services,Workflow Automation,CSM-08,9300,60,2021-12-15,2027-09-16,Active,,None
+ACC-0059,Summit Financial,Mid-Market,APAC,Healthcare,Contract Lifecycle,CSM-04,146400,125,2022-08-18,2027-04-08,Active,,None
+ACC-0060,Vantage Retail,Mid-Market,APAC,Technology,Legal Spend Mgmt,CSM-04,41500,187,2021-11-10,2027-09-13,Active,,None
+ACC-0061,Redwood Legal,Mid-Market,LATAM,Technology,HR Compliance,CSM-03,111200,212,2023-07-28,2026-11-27,Active,,None
+ACC-0062,Coastal Energy,SMB,North America,Manufacturing,HR Compliance,CSM-06,20400,33,2023-12-12,2027-06-12,Active,,None
+ACC-0063,Oakmont Logistics,SMB,North America,Insurance,Legal Spend Mgmt,CSM-08,19900,38,2022-11-28,2027-08-14,Active,,None
+ACC-0064,Oakmont Insurance,Mid-Market,North America,Financial Services,GRC / Risk,CSM-03,112900,214,2022-01-14,2027-04-04,Active,,Quarterly
+ACC-0065,Anchor Bank,SMB,LATAM,Manufacturing,Contract Lifecycle,CSM-06,33200,48,2022-07-18,2027-01-17,Active,,None
+ACC-0066,Liberty Logistics,SMB,North America,Technology,Matter Management,CSM-08,18400,21,2021-12-12,2026-10-16,Active,,None
+ACC-0067,Meridian Manufacturing,Enterprise,LATAM,Manufacturing,HR Compliance,CSM-01,477300,1267,2023-08-16,2027-06-22,Active,,Quarterly
+ACC-0068,Horizon Financial,SMB,EMEA,Technology,HR Compliance,CSM-06,10100,27,2023-03-02,2026-11-09,Active,,None
+ACC-0069,Crescent Group,Mid-Market,EMEA,Financial Services,Workflow Automation,CSM-05,136500,191,2022-10-26,2027-08-08,Active,,None
+ACC-0070,Pinnacle Legal,Mid-Market,North America,Insurance,Contract Lifecycle,CSM-03,115600,171,2023-04-28,2026-11-20,Active,,None
+ACC-0071,Summit Manufacturing,SMB,LATAM,Financial Services,GRC / Risk,CSM-07,36000,58,2022-05-13,2027-07-17,Active,,None
+ACC-0072,Blue Ridge Group,SMB,LATAM,Financial Services,Contract Lifecycle,CSM-08,19800,58,2024-10-14,2027-09-04,Active,,None
+ACC-0073,Riverbend Group,Mid-Market,LATAM,Insurance,Legal Spend Mgmt,CSM-03,70100,245,2022-07-13,2026-10-16,Active,,None
+ACC-0074,Ironwood Pharma,Mid-Market,LATAM,Public Sector,GRC / Risk,CSM-04,77500,144,2022-02-07,2026-09-10,Churned,2026-09-10,Quarterly
+ACC-0075,Monarch Manufacturing,Mid-Market,North America,Insurance,Workflow Automation,CSM-05,105200,184,2024-06-11,2026-01-06,Churned,2026-01-06,Quarterly
+ACC-0076,Harbor Capital,Enterprise,North America,Financial Services,Legal Spend Mgmt,CSM-02,486200,559,2024-06-20,2026-12-12,Active,,Quarterly
+ACC-0077,Bluewater Insurance,Mid-Market,APAC,Technology,HR Compliance,CSM-04,103100,231,2025-06-01,2026-02-14,Churned,2026-02-14,Quarterly
+ACC-0078,Liberty Health,Mid-Market,North America,Financial Services,Matter Management,CSM-04,104800,184,2023-01-27,2027-09-21,Active,,None
+ACC-0079,Ironwood Systems,SMB,North America,Healthcare,Matter Management,CSM-06,12700,22,2024-07-25,2027-03-30,Active,,None
+ACC-0080,Liberty Group,Enterprise,LATAM,Technology,Matter Management,CSM-02,180700,1105,2022-06-27,2027-08-28,Active,,Quarterly
+ACC-0081,Atlas Logistics,SMB,North America,Insurance,Legal Spend Mgmt,CSM-08,35700,15,2025-06-10,2026-11-01,Active,,None
+ACC-0082,Cedar Legal,Mid-Market,LATAM,Healthcare,Legal Spend Mgmt,CSM-04,51400,280,2022-06-13,2026-06-21,Churned,2026-06-21,None
+ACC-0083,Cedar Partners,SMB,LATAM,Healthcare,Contract Lifecycle,CSM-07,37400,34,2023-03-11,2027-06-28,Active,,None
+ACC-0084,Aurora Partners,Mid-Market,North America,Healthcare,Contract Lifecycle,CSM-03,104100,86,2025-02-14,2027-07-15,Active,,None
+ACC-0085,Oakmont Financial,Mid-Market,LATAM,Technology,Matter Management,CSM-05,117300,292,2025-03-06,2027-03-10,Active,,None
+ACC-0086,Coastal Partners,SMB,North America,Manufacturing,Contract Lifecycle,CSM-07,14100,18,2023-08-15,2027-03-10,Active,,None
+ACC-0087,Meridian Logistics,Mid-Market,EMEA,Healthcare,HR Compliance,CSM-04,57000,96,2022-09-13,2026-10-22,Active,,None
+ACC-0088,Evergreen Group,SMB,North America,Energy,Matter Management,CSM-08,15700,60,2023-03-01,2027-08-11,Active,,None
+ACC-0089,Meridian Holdings,SMB,APAC,Manufacturing,HR Compliance,CSM-06,35900,13,2022-09-11,2027-05-05,Active,,None
+ACC-0090,Meridian Insurance,SMB,North America,Healthcare,GRC / Risk,CSM-06,38300,24,2024-10-02,2026-05-09,Churned,2026-05-09,None
+ACC-0091,Ironwood Health,SMB,North America,Financial Services,Workflow Automation,CSM-08,18700,19,2024-05-24,2026-10-17,Active,,None
+ACC-0092,Riverbend Capital,Mid-Market,North America,Insurance,Matter Management,CSM-03,100400,236,2023-02-20,2027-08-14,Active,,Quarterly
+ACC-0093,Harbor Insurance,Mid-Market,North America,Energy,HR Compliance,CSM-05,41800,181,2022-01-26,2027-08-17,Active,,None
+ACC-0094,Driftwood Group,SMB,North America,Legal Services,GRC / Risk,CSM-07,9400,34,2022-09-19,2027-04-05,Active,,None
+ACC-0095,Westfield Energy,Mid-Market,North America,Technology,Workflow Automation,CSM-03,131300,225,2022-05-23,2027-03-22,Active,,Quarterly
+ACC-0096,Riverbend Insurance,SMB,North America,Legal Services,Matter Management,CSM-06,18100,29,2023-02-01,2026-10-21,Active,,None
+ACC-0097,Summit Logistics,SMB,North America,Technology,GRC / Risk,CSM-07,31800,34,2021-12-23,2027-03-21,Active,,None
+ACC-0098,Brightpath Pharma,Enterprise,North America,Insurance,Contract Lifecycle,CSM-01,186000,805,2023-03-29,2027-08-07,Active,,None
+ACC-0099,Liberty Manufacturing,SMB,APAC,Insurance,Workflow Automation,CSM-06,10400,50,2023-09-04,2027-08-13,Active,,None
+ACC-0100,Evergreen Retail,Mid-Market,North America,Technology,Contract Lifecycle,CSM-04,144400,58,2021-11-07,2027-05-15,Active,,Quarterly
+ACC-0101,Vantage Bank,SMB,North America,Financial Services,Legal Spend Mgmt,CSM-08,14000,43,2022-01-04,2027-02-22,Active,,None
+ACC-0102,Bluewater Logistics,Mid-Market,LATAM,Financial Services,Matter Management,CSM-03,89700,280,2024-01-20,2027-09-23,Active,,None
+ACC-0103,Silverline Manufacturing,SMB,EMEA,Healthcare,Contract Lifecycle,CSM-08,15200,22,2024-01-10,2027-03-05,Active,,None
+ACC-0104,Liberty Retail,Mid-Market,North America,Insurance,GRC / Risk,CSM-05,119100,184,2022-07-24,2026-12-08,Active,,None
+ACC-0105,Aurora Pharma,Mid-Market,North America,Healthcare,Matter Management,CSM-04,95300,272,2023-01-15,2027-09-16,Active,,None
+ACC-0106,Driftwood Legal,Enterprise,EMEA,Insurance,Matter Management,CSM-02,206300,820,2023-09-18,2027-06-25,Active,,None
+ACC-0107,Harbor Bank,Enterprise,APAC,Legal Services,Legal Spend Mgmt,CSM-01,170500,1381,2022-02-25,2027-08-08,Active,,Monthly
+ACC-0108,Oakmont Retail,Mid-Market,North America,Manufacturing,Workflow Automation,CSM-04,72700,68,2022-08-05,2027-02-28,Active,,None
+ACC-0109,Westfield Partners,Enterprise,North America,Technology,HR Compliance,CSM-01,293600,1155,2023-11-12,2027-03-28,Active,,None
+ACC-0110,Horizon Legal,Mid-Market,EMEA,Manufacturing,Matter Management,CSM-04,149600,169,2024-10-03,2027-03-19,Active,,None
+ACC-0111,Driftwood Manufacturing,Mid-Market,LATAM,Energy,Contract Lifecycle,CSM-05,40900,77,2023-09-04,2026-09-01,Churned,2026-09-01,Quarterly
+ACC-0112,Westfield Manufacturing,SMB,North America,Insurance,Legal Spend Mgmt,CSM-07,24100,58,2022-06-16,2027-07-17,Active,,None
+ACC-0113,Keystone Insurance,SMB,LATAM,Technology,Matter Management,CSM-06,27300,35,2023-07-24,2027-03-25,Active,,None
+ACC-0114,Monarch Bank,Enterprise,APAC,Technology,Matter Management,CSM-02,595800,812,2022-04-03,2027-06-23,Active,,Monthly
+ACC-0115,Monarch Partners,Mid-Market,North America,Public Sector,HR Compliance,CSM-04,127600,235,2025-07-23,2027-04-09,Active,,None
+ACC-0116,Blue Ridge Capital,SMB,North America,Legal Services,HR Compliance,CSM-07,13500,50,2022-05-30,2027-07-25,Active,,None
+ACC-0117,Ironwood Retail,SMB,North America,Technology,GRC / Risk,CSM-06,21200,23,2025-01-13,2027-01-08,Active,,None
+ACC-0118,Blue Ridge Insurance,SMB,LATAM,Public Sector,Contract Lifecycle,CSM-06,22700,44,2023-10-31,2027-09-07,Active,,None
+ACC-0119,Redwood Pharma,Mid-Market,North America,Insurance,Matter Management,CSM-04,124800,230,2022-03-26,2027-06-07,Active,,Quarterly
+ACC-0120,Lakeshore Financial,SMB,North America,Public Sector,Contract Lifecycle,CSM-06,17300,28,2021-11-10,2027-07-08,Active,,None
+ACC-0121,Harbor Health,Enterprise,North America,Legal Services,Workflow Automation,CSM-01,437100,307,2025-01-15,2027-08-14,Active,,Quarterly
+ACC-0122,Summit Bank,Mid-Market,EMEA,Energy,GRC / Risk,CSM-05,61900,296,2024-10-07,2027-04-29,Active,,None
+ACC-0123,Ironwood Bank,Mid-Market,EMEA,Legal Services,GRC / Risk,CSM-04,60500,241,2025-06-11,2026-12-31,Active,,None
+ACC-0124,Horizon Manufacturing,SMB,North America,Financial Services,Contract Lifecycle,CSM-06,31400,51,2022-10-29,2027-05-30,Active,,None
+ACC-0125,Pinnacle Partners,Enterprise,EMEA,Public Sector,HR Compliance,CSM-02,189000,395,2024-09-01,2027-08-11,Active,,None
+ACC-0126,Sierra Insurance,Enterprise,EMEA,Legal Services,Contract Lifecycle,CSM-02,461700,327,2024-02-27,2027-03-20,Active,,Monthly
+ACC-0127,Monarch Retail,Mid-Market,North America,Healthcare,GRC / Risk,CSM-03,90000,205,2023-12-31,2027-04-09,Active,,None
+ACC-0128,Riverbend Manufacturing,SMB,EMEA,Financial Services,HR Compliance,CSM-07,24900,33,2024-04-07,2027-09-16,Active,,None
+ACC-0129,Cobalt Legal,Mid-Market,LATAM,Energy,Legal Spend Mgmt,CSM-05,89000,64,2023-10-25,2026-01-02,Churned,2026-01-02,None
+ACC-0130,Lakeshore Partners,Mid-Market,North America,Manufacturing,HR Compliance,CSM-03,45000,138,2025-07-13,2027-04-23,Active,,None
+ACC-0131,Oakmont Systems,Mid-Market,LATAM,Public Sector,Contract Lifecycle,CSM-04,89300,284,2024-11-22,2027-08-27,Active,,None
+ACC-0132,Aurora Holdings,Mid-Market,LATAM,Healthcare,Workflow Automation,CSM-03,131800,243,2023-09-14,2026-12-02,Active,,Quarterly
+ACC-0133,Pioneer Capital,Mid-Market,North America,Financial Services,Legal Spend Mgmt,CSM-05,86100,246,2024-04-07,2027-05-26,Active,,None
+ACC-0134,Bluewater Holdings,SMB,EMEA,Manufacturing,Workflow Automation,CSM-06,20900,24,2021-11-19,2027-09-28,Active,,None
+ACC-0135,Pioneer Pharma,SMB,North America,Healthcare,Workflow Automation,CSM-08,21700,41,2023-05-03,2027-03-05,Active,,None
+ACC-0136,Silverline Logistics,Mid-Market,North America,Energy,Matter Management,CSM-03,73100,231,2023-05-13,2026-12-18,Active,,None
+ACC-0137,Falcon Logistics,Mid-Market,North America,Energy,Contract Lifecycle,CSM-03,98900,262,2024-03-22,2026-06-13,Churned,2026-06-13,None
+ACC-0138,Driftwood Retail,Mid-Market,EMEA,Technology,Contract Lifecycle,CSM-03,63300,98,2022-07-09,2027-01-22,Active,,None
+ACC-0139,Vantage Manufacturing,Enterprise,North America,Technology,Contract Lifecycle,CSM-02,311800,1218,2022-07-23,2027-03-16,Active,,Quarterly
+ACC-0140,Silverline Systems,SMB,North America,Manufacturing,Workflow Automation,CSM-06,8500,45,2023-11-25,2027-05-02,Active,,None
+ACC-0141,Falcon Partners,Mid-Market,APAC,Technology,Contract Lifecycle,CSM-04,146300,214,2024-04-10,2027-06-15,Active,,None
+ACC-0142,Horizon Systems,Mid-Market,APAC,Legal Services,Legal Spend Mgmt,CSM-05,45300,51,2024-08-15,2027-07-07,Active,,None
+ACC-0143,Granite Holdings,SMB,LATAM,Energy,Workflow Automation,CSM-07,8500,44,2023-07-24,2026-11-02,Active,,None
+ACC-0144,Horizon Capital,Enterprise,LATAM,Manufacturing,Matter Management,CSM-02,516800,747,2024-08-24,2026-11-26,Active,,None
+ACC-0145,Lakeshore Holdings,Enterprise,LATAM,Legal Services,Legal Spend Mgmt,CSM-02,320700,1331,2025-03-14,2027-09-02,Active,,None
+ACC-0146,Anchor Group,SMB,APAC,Financial Services,HR Compliance,CSM-06,15400,54,2023-10-18,2027-07-19,Active,,None
+ACC-0147,Driftwood Insurance,Mid-Market,LATAM,Public Sector,Legal Spend Mgmt,CSM-04,57900,111,2023-11-21,2026-10-11,Active,,None
+ACC-0148,Pioneer Financial,SMB,EMEA,Technology,Legal Spend Mgmt,CSM-06,22000,14,2025-03-19,2027-06-16,Active,,None
+ACC-0149,Cobalt Manufacturing,SMB,North America,Public Sector,Legal Spend Mgmt,CSM-08,17500,25,2023-07-20,2027-05-12,Active,,None
+ACC-0150,Sterling Retail,Enterprise,North America,Technology,Contract Lifecycle,CSM-01,209600,583,2025-01-20,2026-08-10,Churned,2026-08-10,Monthly
